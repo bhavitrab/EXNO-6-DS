@@ -12,8 +12,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 # Coding:
 ~~~
-Developed by:RAKSHITHA K
-Register no:212223110039
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5]
